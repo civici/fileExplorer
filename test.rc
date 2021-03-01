@@ -1,0 +1,6 @@
+#include "resource.h"
+
+MY_MAIN_MENU MENU
+BEGIN
+    MENUITEM "Exit" ID_EXIT
+END
